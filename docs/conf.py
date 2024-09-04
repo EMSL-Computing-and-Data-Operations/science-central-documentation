@@ -6,15 +6,15 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Science Central'
-copyright = '2024, Soumya Manchikanti'
-author = 'Soumya Manchikanti'
+project = 'Science Central™'
+copyright = '2024, Science Central™'
+author = 'Science Central™'
 release = '0.1'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = []
+extensions = ['myst_parser']
 
 templates_path = ['_templates']
 source_suffix = ['.rst', '.md']
@@ -30,4 +30,4 @@ html_static_path = ['_static']
 html_css_files = [
     'css/custom.css',
 ]
-html_title = 'Science Central'
+html_title = 'Science Central™'
