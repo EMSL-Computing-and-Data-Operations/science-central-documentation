@@ -33,13 +33,6 @@ Welcome to Science Central™'s User Guide!
    Create Account <./howto_guides/create_account.md>
    Metadata Submission <./howto_guides/lims_metadata.md>
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Tutorials
-
-   tutorials/proposal_submission.rst
-
-
 .. Indices and tables
 .. ==================
 

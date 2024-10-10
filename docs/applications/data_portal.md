@@ -24,7 +24,7 @@ After the selections are made by user, search results appear as a scrollable lis
 
 Users can click on the "Select Datasets" button to open up the dataset selector. From here, users can select datasets and either add them to the cart (enabling downloads of data across multiple projects), or download only the chosen datasets (note that this functionality might change in the future).
 
-Users can also see more details such as the DOI and files of an individual upload by clicking the DOI button. Each dataset has its own URL ([sc-data-dev.emsl.pnl.gov/doi/](sc-data-dev.emsl.pnl.gov/doi/)<upload_id>) that can be shared between users. Users can add files to cart and/or download from here as well.
+Users can also see more details such as the DOI and files of an individual upload by clicking the DOI button. Each dataset has its own URL that can be shared between users. Users can add files to cart and/or download from here as well.
 
 ![doi_click](../_static/images/data_portal/doi_click.png)
 

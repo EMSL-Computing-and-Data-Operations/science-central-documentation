@@ -1,8 +1,8 @@
 # Getting started with Science Central™
 
-If you are a new participant or user and have never used EMSL system, please follow the steps below to create an account through EMSL's Science Central™.
+If you are a new participant or user and have never used Environmental Molecular Sciences Laboratory (EMSL) system, please follow the steps below to create an account through EMSL's Science Central™.
 
-## Steps to create account.
+## Steps to create account
 
 1. Go to [Science Central](https://sc.emsl.pnnl.gov/) and click on "Create Account" button on top right corner of the screen.
 
