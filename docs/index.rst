@@ -31,6 +31,7 @@ Welcome to Science Central™'s User Guide!
    :caption: HOW-TO Guides
 
    Create Account <./howto_guides/create_account.md>
+   Globus Account Association <./howto_guides/create_globus_account.md>
    Metadata Submission <./howto_guides/lims_metadata.md>
 
 .. Indices and tables
