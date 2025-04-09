@@ -1,6 +1,6 @@
 # Globus account association
 
-If you are downloading a cart whose size is more than 10 GB, a <a href="https://www.globus.org/" target="_blank">Globus</a> account is needed to download data reliably and efficiently. Once a Globus account is created, it needs to be associated with your Science Central™ account.
+If you are downloading a cart whose size is more than 10 GB, a <a href="https://www.globus.org/get-started" target="_blank">Globus</a> account is needed to download data reliably and efficiently. Once a Globus account is created, it needs to be associated with your Science Central™ account.
 
 If you do not have a Globus account associated with your Science Central account, the following message is seen when trying to download a cart.
 
