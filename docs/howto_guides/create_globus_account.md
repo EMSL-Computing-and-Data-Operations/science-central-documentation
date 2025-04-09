@@ -1,13 +1,13 @@
 # Globus account association
 
-If you are downloading a cart whose size is more than 10 GB, [Globus](https://www.globus.org/) account is needed to download data reliably and efficiently. Once a Globus account is created, it needs to be associated with your Science Central™ account.
+If you are downloading a cart whose size is more than 10 GB, a <a href="https://www.globus.org/" target="_blank">Globus</a> account is needed to download data reliably and efficiently. Once a Globus account is created, it needs to be associated with your Science Central™ account.
 
 If you do not have a Globus account associated with your Science Central account, the following message is seen when trying to download a cart.
 
 ![DP_NoGlobus](../_static/images/create_globus_account/Step00_DP_NoGlobus.jpg)
 
 ## Steps to create a Globus account
-1. Go to [Globus](https://www.globus.org/) website. You will be prompted to login with a screen. If your organization is listed, choose that to log into Globus. If not, sign in with Github or Google or ORCID iD. The following images are shown with a Google sign in.
+1. Go to <a href="https://www.globus.org/" target="_blank">Globus</a> website. You will be prompted to login with a screen. If your organization is listed, choose that to log into Globus. If not, sign in with Github or Google or ORCID iD. The following images are shown with a Google sign in.
 
 ![GlobusLogin](../_static/images/create_globus_account/Step01_GlobusLogin.jpg)
 
