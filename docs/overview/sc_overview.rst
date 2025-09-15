@@ -62,6 +62,18 @@ Here is the overview of the key components and applications of Science Central�
 Support and Help
 =================
 
- For general Science Central™ access issues, questions related to web application, and to provide feedback reach out to sc.support@pnnl.gov.
+For general Science Central™ access issues, and questions related to web application reach out to sc.support@pnnl.gov.
 
+Feedback
+============
+
+This feature is available for logged-in users only and we would greatly appreciate hearing about your experience with Science Central™.
+Your valuable insights help us continually improve Science Central™ and create a better experience for all our users.
+
+To share your thoughts with us please follow these steps:
+
+1. Click the **Help** button in the top-right corner of the Science Central™.
+2. Choose **"Send Feedback"** from the dropdown.
+3. Fill out the brief form by selecting a topic from the dropdown menu.
+4. Share your thoughts and suggestions.
 
