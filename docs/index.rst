@@ -34,6 +34,12 @@ Welcome to Science Central™'s User Guide!
    Globus Account Association <./howto_guides/create_globus_account.md>
    Metadata Submission <./howto_guides/lims_metadata.md>
 
+.. toctree::
+   :maxdepth: 2
+   :caption: FAQ
+
+   FAQ <./faq/faq.md>
+
 .. Indices and tables
 .. ==================
 
