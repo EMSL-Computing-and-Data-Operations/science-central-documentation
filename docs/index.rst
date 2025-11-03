@@ -11,6 +11,8 @@ Welcome to Science Central™'s User Guide!
    :caption: Science Central™ Overview
 
    overview/sc_overview.rst
+   overview/science_central_overview.md
+   overview/science_central_quick_start.md
 
 .. toctree::
    :maxdepth: 2
@@ -19,6 +21,9 @@ Welcome to Science Central™'s User Guide!
    applications/proposal_management.md
    applications/lims.rst
    Data Portal <./applications/data_portal.md>
+   applications/circles_collaboration_platform.md
+   applications/insight_engine_platform.md
+   applications/modeling_workbench_platform.md
 
 .. toctree::
    :maxdepth: 2
