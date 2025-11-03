@@ -25,7 +25,6 @@ Circles is implemented as a direct integration with Microsoft Teams, providing s
 - **URL Pattern**: Uses Microsoft Teams launcher URLs with specific tenant and group IDs
 - **Authentication**: Leverages Microsoft Teams authentication system
 - **Team Structure**: "Science Central - MS Teams Integration" team observed as active implementation
-- **Tenant ID**: d6faa5f9-0ae2-4033-8c01-30048a38deeb (observed in URLs)
 
 ### Access Methods
 1. **From Science Central Development Environment**: Click on Circles component
@@ -42,7 +41,6 @@ Based on direct exploration of the Microsoft Teams integration:
 - **Active Channel**: General (currently selected)
 - **Channel Types**:
   - General (public channel)
-  - Test (private channel, observed timestamp 9/25)
 
 #### Associated Research Teams
 Multiple research-focused teams observed in the environment:
