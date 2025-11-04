@@ -4,9 +4,8 @@
 
 ### Platform Access
 1. **Navigate to**: https://sc.emsl.pnnl.gov/
-2. **Authentication**: Use your EMSL credentials
-3. **Dashboard**: Access the All Modules view
-4. **Selection**: Choose the appropriate tool for your research
+2. **Dashboard**: Access the All Modules view
+3. **Selection**: Choose the appropriate tool for your research
 
 ### Component Selection Guide
 
