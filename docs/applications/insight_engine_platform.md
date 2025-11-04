@@ -31,15 +31,15 @@ The Insight Engine consists of two main components:
 
 ### Directly Observed Features
 
-#### JupyterLab Interface (Observed)
-When accessed, the Explore environment opens a JupyterLab interface with:
+#### JupyterLab Interface
+The Explore environment opens a JupyterLab interface with:
 
 - **Launcher Tab**: Shows available options for creating new work
 - **Python 3 (ipykernel)**: Available for notebook and console creation
 - **File Browser**: Standard JupyterLab file navigation
 - **Menu Structure**: File, Edit, View, Run, Kernel, Tabs, Settings, Help
 
-#### Launcher Options (Directly Observed)
+#### Launcher Options
 The JupyterLab launcher shows these creation options:
 
 **Notebook Section:**
@@ -151,32 +151,27 @@ The MAP Store serves as a marketplace of specialized analysis applications with 
 #### 1. PMart
 **Description**: Statistical analysis and visualization of proteomics, metabolomics, lipidomics, and transcriptomics data
 
-**Citation**: Stratton, K.G.; Claborne, D.M.; Degnan, D.J.; Richardson, R.E.; White, A.M.; McCue L.A.; Webb-Robertson B.M.; Bramer, L.M. PMart web application: marketplace for interactive analysis of panomics data. *Journal of Proteome Research* 2024, 23(8), 4736-4741. DOI: 10.1021/acs.jproteome.3c00512
 
-**Backend Code Citation**: Degnan D.J.; Stratton, K.G.; Richardson R.E.; Claborne, D.M.; Martin, E.A.; Johnson, N.A.; Leach, D.T; Webb-Robertson B.M.; Bramer, L.M. pmartR 2.0: A quality control, visualization, and statistics pipeline for multiple omics datatypes. *Journal of Proteome Research* 2023, 22(2). DOI: 10.1021/acs.jproteome.2c00610
 
 #### 2. iPMart
 **Description**: Statistical analysis, integration, and visualization of multi-omics data
 
-**Integration Code Citation**: Rohart, F.; Gauiter, B.; Singh, A.; Cao, K.L. mixOmics: an R package for omics feature selection and multiple data integration. *PLOS Computational Biology* 2017, 13(11), e1005752. DOI: 10.1371/journal.pcbi.1005752
 
-**Application Citation**: In preparation
 
 #### 3. MODE
 **Description**: Create shareable HTML displays of proteomics, metabolomics, lipidomics, and transcriptomic data
 
-**Citation**: Degnan, D.J.; Claborne, D.M.; Richardson, R.E.; Strauch, C.W.; Glasscock, E.C.; Veličković, D.; Burnum-Johnson, K.E.; Webb-Robertson, B.J.; Stratton, K.G; Bramer, L.MMODE: A web application for interactive visualization and exploration of omics data. *Journal of Proteome Research* 2025, 24(2), 911-918. DOI: 10.1021/acs.jproteome.4c00650
+
 
 #### 4. FREDA
 **Description**: Analyze and visualize FT-MS data
 
-**Citation**: Degnan, D.J.; Claborne, D.M; White, A.M.; Akers, S.M.; Winans, N.M.; Corilo, Y.E.; Strauch, C.W.; Bailey, V.L.; McCue, L.A.; Stratton, K.G.; Bramer, L.M. FREDA: A web application for the processing, analysis, and visualization of Fourier-transform mass spectrometry data. *Rapid Communications in Mass Spectrometry* 2024, 39(7), e9880. DOI: 10.1002/rcm.9980
+
 
 #### 5. SLOPE
 **Description**: Machine learning for 'omics and multi-omics datasets
 
-**Citation**: In preparation
-**Backend Code Citation**: In preparation
+
 
 ### Workflow Design System
 
@@ -257,18 +252,6 @@ The MAP Store serves as a marketplace of specialized analysis applications with 
 - **Export Quality**: Ensure publication-ready output quality
 
 ## Training and Support
-
-### Educational Resources
-- **Tutorial Videos**: Step-by-step instructional content
-- **Documentation**: Comprehensive user guides
-- **Example Workflows**: Pre-built analysis examples
-- **Best Practices Guides**: Methodology recommendations
-
-### Community Support
-- **User Forums**: Peer-to-peer assistance
-- **Expert Consultations**: Access to domain specialists
-- **Webinar Series**: Regular training sessions
-- **Case Studies**: Real-world application examples
 
 ### Technical Support
 - **Help Desk**: Direct support via sc.support@pnnl.gov

@@ -11,7 +11,6 @@ Welcome to Science Central™'s User Guide!
    :caption: Science Central™ Overview
 
    overview/sc_overview.rst
-   overview/science_central_overview.md
    overview/science_central_quick_start.md
 
 .. toctree::

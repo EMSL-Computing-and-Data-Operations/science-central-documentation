@@ -32,7 +32,7 @@ The Modeling Workbench consists of three main components:
 
 ### Directly Observed Features
 
-#### JupyterLab Interface (Observed)
+#### JupyterLab Interface
 When accessed, the Data Science environment opens a JupyterLab interface with:
 - File browser on the left sidebar
 - Main workspace with notebook tabs
@@ -40,11 +40,11 @@ When accessed, the Data Science environment opens a JupyterLab interface with:
 - Toolbar with common actions (save, add cell, cut, copy, paste, run, restart)
 - Status bar showing kernel information
 
-#### Interface Elements Observed
+#### Interface Elements
 - **File Browser**: Shows `/home/jovyan` directory
 - **Notebook Environment**: Interactive notebook with Python 3 (ipykernel)
 - **Cell Types**: Code, Markdown, Raw options available
-- **Kernel Status**: "Python 3 (ipykernel) | Connecting" observed in status bar
+- **Kernel Status**: "Python 3 (ipykernel) | Connecting"
 - **Tabs**: "File Browser", "Running Terminals and Kernels", "Table of Contents", "Extension Manager"
 
 #### Observed Functionality
@@ -63,7 +63,7 @@ When accessed, the Data Science environment opens a JupyterLab interface with:
 
 **Tooltip Description**: "A JupyterHub environment designed with all the necessary libraries for conducting deep learning tasks using TensorFlow."
 
-### Directly Observed Information
+### Information
 When clicking on the TensorFlow option, it opened a new browser tab but the specific interface details were not fully explored during the session.
 
 ---
@@ -83,7 +83,7 @@ When accessed, Tahoma OnDemand opens to an Open OnDemand interface with:
 - **Version**: OnDemand version 3.1.14
 - **Navigation Menu**: Apps, Files, Jobs, Clusters, Interactive Apps, My Interactive Sessions, Help
 
-#### Available Applications (Observed)
+#### Available Applications
 The dashboard shows "Pinned Apps" with three main applications:
 
 1. **Cluster Desktop**
@@ -108,7 +108,7 @@ The dashboard shows "Pinned Apps" with three main applications:
 
 ## Getting Started
 
-### Access Instructions (Observed)
+### Access Instructions
 1. Navigate to Science Central main page (https://sc.emsl.pnnl.gov/)
 2. Select "Modeling Workbench" from the main modules
 3. Choose from the three available environments:
@@ -117,7 +117,7 @@ The dashboard shows "Pinned Apps" with three main applications:
    - Click "Tahoma OnDemand" for HPC access
 
 ### Environment Selection
-Based on the tooltip descriptions observed:
+Based on the tooltip descriptions:
 - **Data Science**: For multi-language data processing and analysis (Python, R, Julia)
 - **TensorFlow**: For deep learning tasks using TensorFlow
 - **Tahoma OnDemand**: For file management, job submission, GUI applications, and shell access

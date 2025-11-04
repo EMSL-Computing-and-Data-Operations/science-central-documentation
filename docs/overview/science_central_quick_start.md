@@ -10,6 +10,37 @@
 
 ### Component Selection Guide
 
+#### Choose **Proposal Management** when you need to:
+- Submit research proposals and letters of intent (LOI)
+- Track the status of submitted proposals
+- Manage user projects and experiments
+- Schedule experiments and instrument time
+- Access funding and collaboration opportunities
+- View and manage publication requirements
+
+#### Choose **Data Portal** when you need to:
+- Search and discover scientific datasets
+- Access released datasets from completed projects
+- Browse MONet (Molecular Observation Network) data
+- Download datasets for analysis
+- Explore research data by project, instrument, or researcher
+- Find datasets to enhance your research findings
+
+#### Choose **Sample Submission (LIMS)** when you need to:
+- Submit sample metadata for laboratory analysis
+- Track sample shipment and analysis status
+- Download metadata templates
+- Manage sample information and workflows
+- Access reviewer tables for sample status
+
+#### Choose **L7 Enterprise Science Platform** when you need to:
+- Manage laboratory information systems
+- Track samples, projects, and workflows
+- Access comprehensive LIMS functionality
+- Monitor analysis progress and results
+- Manage laboratory inventory and equipment
+- Create and manage experimental workflows
+
 #### Choose **Circles** when you need to:
 - Collaborate with other researchers
 - Share research findings
@@ -32,6 +63,70 @@
 - Build interactive dashboards
 
 ## Quick Start Workflows
+
+### For Proposal Submission and Management
+
+#### Getting Started with Proposals
+1. **Access**: Select Proposal Management from the main menu
+2. **Login**: Authenticate through NEXUS User Portal
+3. **Navigate**: Use the dashboard to access key functions:
+   - **Proposals/Projects**: Submit new proposals and manage existing ones
+   - **Schedule Experiments**: Book instrument time and plan experiments
+   - **Get Data**: Access your experimental data and results
+   - **Publications**: Manage publication requirements and submissions
+4. **Submit**: Click "Submit a Proposal/LOI" to start a new proposal
+5. **Track**: Monitor proposal status and project progress through the dashboard
+
+#### Key Features Available:
+- **ORCID Integration**: Link your ORCID profile for streamlined submission
+- **Training Modules**: Access required training for facility use
+- **Reviews**: Participate in the peer review process
+- **Sample Status**: Track sample processing (coming soon)
+
+### For Data Discovery and Access
+
+#### Getting Started with Data Portal
+1. **Access**: Select Data Portal from the main menu
+2. **Browse**: Explore available datasets using multiple views:
+   - **All Data**: Browse complete dataset collection
+   - **MONet**: Access Molecular Observation Network datasets
+3. **Search**: Use search functionality to find specific datasets:
+   - Search by project title, abstract, or ID
+   - Filter by released data, project, or instrument group
+4. **Select**: Choose datasets of interest and review metadata
+5. **Download**: Access and download datasets for your research
+
+#### Dataset Information Includes:
+- **Project Details**: Principal investigator, project duration, institution
+- **Data Volume**: Number of uploads and total data size
+- **Research Context**: Project abstracts and research objectives
+- **Data Policy**: Access to data usage policies and guidelines
+
+### For Sample Management and LIMS
+
+#### Getting Started with Sample Submission
+1. **Access**: Navigate to LIMS → Sample Submission
+2. **Templates**: Download metadata templates for sample preparation
+3. **Submit**: Create new shipment applications with sample metadata
+4. **Track**: Monitor shipment status and processing progress
+5. **Review**: Access reviewer tables for detailed sample information
+
+#### Getting Started with L7 Platform
+1. **Access**: Navigate to LIMS → L7 for comprehensive laboratory management
+2. **Dashboard**: View key metrics and recent activity
+3. **Manage**: Access various laboratory functions:
+   - **Entities**: Register and manage laboratory entities
+   - **Samples**: Track sample workflows and status
+   - **Projects**: Manage experimental projects
+   - **Analysis**: Monitor analytical processes
+   - **Inventory**: Manage laboratory inventory
+   - **Equipment**: Track instrument usage and maintenance
+
+#### Key L7 Capabilities:
+- **Workflow Management**: Design and execute analytical workflows
+- **Data Integration**: Connect sample metadata with analytical results
+- **Quality Control**: Monitor analytical quality and compliance
+- **Collaboration**: Share data and workflows with team members
 
 ### For New Data Science Users
 
@@ -109,6 +204,26 @@ plt.show()
 
 #### Common Issues and Solutions
 
+**Issue**: Cannot access Proposal Management
+- **Solution**: Ensure you have valid EMSL user credentials
+- **Alternative**: Check ORCID integration and profile completion
+- **Contact**: User Office at uo@emsl.pnnl.gov for account issues
+
+**Issue**: Data Portal search not returning results
+- **Solution**: Clear search filters and try broader search terms
+- **Alternative**: Use "All Data" tab and browse by category
+- **Contact**: Data management team for specific dataset questions
+
+**Issue**: Sample submission templates not downloading
+- **Solution**: Check browser settings to allow downloads
+- **Alternative**: Try different browser or contact support
+- **Contact**: LIMS support for template and submission issues
+
+**Issue**: L7 Platform login or access issues
+- **Solution**: Verify EMSL credentials and project permissions
+- **Alternative**: Clear browser cache and retry login
+- **Contact**: L7 administrator for platform-specific issues
+
 **Issue**: Cannot access environment
 - **Solution**: Clear browser cache and try again
 - **Alternative**: Try different browser or incognito mode
@@ -151,17 +266,33 @@ plt.show()
 
 ## Best Practices
 
-### Data Management
-- **Naming Conventions**: Use clear, descriptive file names
-- **Directory Structure**: Organize files logically
-- **Documentation**: Include README files with project descriptions
-- **Backup Strategy**: Maintain copies of important data and results
+### Proposal Management
+- **Preparation**: Complete ORCID profile before submitting proposals
+- **Documentation**: Maintain clear project descriptions and objectives
+- **Deadlines**: Submit proposals well before deadline dates
+- **Follow-up**: Regularly check proposal status and respond to reviews
+- **Training**: Complete required safety and instrument training
 
-### Code Development
-- **Version Control**: Use Git for code management
-- **Comments**: Include clear comments in your code
-- **Modular Design**: Break complex analyses into functions
-- **Testing**: Validate your code with known datasets
+### Data Management
+- **Discovery**: Use Data Portal to avoid duplicating existing research
+- **Citation**: Properly cite datasets used in your research
+- **Metadata**: Provide comprehensive metadata for your own datasets
+- **Access**: Understand data policies before downloading datasets
+- **Sharing**: Follow EMSL guidelines for data sharing and publication
+
+### Sample Management
+- **Templates**: Always use current metadata templates for submissions
+- **Preparation**: Prepare samples according to EMSL guidelines
+- **Tracking**: Monitor sample status through submission system
+- **Communication**: Maintain contact with facility staff during processing
+- **Quality**: Ensure sample quality meets analysis requirements
+
+### Laboratory Information Management
+- **Workflows**: Design clear, reproducible analytical workflows
+- **Documentation**: Maintain detailed records of all procedures
+- **Quality Control**: Implement appropriate QC measures
+- **Data Integrity**: Ensure accurate data capture and storage
+- **Compliance**: Follow all facility and regulatory requirements
 
 ### Collaboration
 - **Communication**: Use clear communication with team members
@@ -188,45 +319,24 @@ plt.show()
 ### Documentation
 - **Platform Guides**: Comprehensive documentation for each component
 - **Tutorials**: Step-by-step instructional materials
-- **API Documentation**: Technical specifications for developers
+- **User Guides**: Specific documentation for Proposal Management, LIMS, and Data Portal
 - **Best Practices**: Methodology recommendations
+- **FAQ Resources**: Answers to common questions at https://www.emsl.pnnl.gov/user-program/faqs
 
-### Training
-- **Video Tutorials**: Visual learning materials
-- **Webinars**: Regular training sessions
-- **Workshops**: Hands-on training opportunities
-- **Office Hours**: Direct access to experts
+### Contact Information
+- **General Support**: sc.support@pnnl.gov
+- **User Office**: uo@emsl.pnnl.gov (for account and proposal questions)
+- **Data Management**: Contact through Science Central platform
+- **LIMS Support**: Available through L7 platform help system
+- **Emergency Contact**: 24/7 facility operations support available
 
-### Community
-- **User Forums**: Peer-to-peer support
-- **Case Studies**: Examples of successful projects
-- **Method Sharing**: Community-contributed methodologies
-- **Collaboration Opportunities**: Connect with other researchers
+### Getting Help
+1. **In-Platform Help**: Use the "How can I help you?" chat feature
+2. **Documentation**: Access comprehensive guides for each platform
+3. **Training Resources**: Complete online training modules
+4. **User Community**: Connect with other researchers through Circles
+5. **Direct Support**: Contact appropriate support team for specific issues
 
-### Technical Support
-- **Help Desk**: Email sc.support@pnnl.gov for technical assistance
-- **Bug Reports**: Report issues for prompt resolution
-- **Feature Requests**: Suggest improvements and new features
-- **System Status**: Check platform status and maintenance schedules
+---
 
-## Getting Help
-
-### Self-Help Resources
-1. **Documentation**: Check platform-specific documentation first
-2. **Tutorials**: Follow step-by-step guides for common tasks
-3. **Community Forums**: Search for similar questions and solutions
-4. **FAQ**: Review frequently asked questions
-
-### Contacting Support
-1. **Email**: sc.support@pnnl.gov with detailed problem description
-2. **Include**: Error messages, steps to reproduce, browser information
-3. **Response Time**: Typically 1-2 business days
-4. **Escalation**: Critical issues receive priority attention
-
-### Emergency Support
-- **System Outages**: Announcements via platform notifications
-- **Data Loss**: Immediate assistance for data recovery
-- **Security Issues**: Priority handling for security concerns
-- **Critical Deadlines**: Expedited support for time-sensitive work
-
-Remember: Science Central is designed to support your research goals. Don't hesitate to reach out for help or to explore new features that might enhance your work!
+**Science Central™ provides integrated access to world-class scientific computing, data management, and collaboration tools. Start with the appropriate platform for your research needs and expand to other tools as your project develops.**
