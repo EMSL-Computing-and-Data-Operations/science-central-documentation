@@ -27,7 +27,7 @@ The Insight Engine consists of two main components:
 ### Overview
 **Tagline**: "Accelerate Your Python Explorations"
 
-**Tooltip Description**: "A JupyterLab environment optimized for creating streamlined plots, conducting analyses, and running scripts in Python."
+**Tooltip Description**: "A JupyterHub environment optimized for creating streamlined plots, conducting analyses, and running scripts in Python."
 
 ### Directly Observed Features
 
@@ -226,6 +226,8 @@ The MAP Store serves as a marketplace of specialized analysis applications with 
 2. Select "Explore" environment
 3. Create new notebook or console session
 4. Begin Python-based analysis
+
+Explore opens in a new browser tab. Only one JupyterHub environment (Explore, or the Modeling Workbench Data Science and TensorFlow environments) runs at a time: launching Explore stops any server you have running in another of these environments, so save your work first. If Explore is already running, a "Server Already Running" dialog appears; select "LAUNCH SERVER" to reopen it.
 
 #### For MAP:
 1. Navigate to Multi-omics Analysis Portal

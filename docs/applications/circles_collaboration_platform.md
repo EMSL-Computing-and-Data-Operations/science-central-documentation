@@ -21,7 +21,10 @@
 ### Microsoft Teams Integration
 Circles is implemented as a direct integration with Microsoft Teams, providing seamless collaboration capabilities within the familiar Teams environment. When accessed from Science Central, users are directed to Microsoft Teams web application.
 
-
+### Access Requirements
+- **Login Required**: The Circles tile can only be opened after logging in to Science Central. Before login, hovering over the tile shows "Please login to access collaborative hub".
+- **Team Membership Required**: Circles opens only for users who are members of the Science Central Microsoft Teams team. For other logged-in users the tile cannot be selected, and hovering over it shows "Access restricted. Please contact sc-collab-support@pnnl.gov to request access to the collaborative hub." The email link opens a pre-filled access request.
+- **Opens in a New Tab**: Selecting the Circles tile opens the Science Central team in Microsoft Teams in a new browser tab.
 
 ### Access Methods
 1. **Direct Teams Access**: Launches Microsoft Teams web application

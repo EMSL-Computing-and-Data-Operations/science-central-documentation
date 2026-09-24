@@ -75,6 +75,8 @@ When clicking on the TensorFlow option, it opened a new browser tab but the spec
 
 **Tooltip Description**: "Workspace to manage files, jobs, run GUI applications, and connect to an interactive shell."
 
+**Access Requirement**: A Tahoma account is required. Without one, the Tahoma OnDemand card is disabled and shows "Tahoma account is required.", its tooltip includes a "Learn how to get access" link, and Tahoma OnDemand does not appear in the navigation menu.
+
 ### Directly Observed Features
 
 #### Open OnDemand Dashboard
@@ -122,13 +124,16 @@ Based on the tooltip descriptions:
 - **TensorFlow**: For deep learning tasks using TensorFlow
 - **Tahoma OnDemand**: For file management, job submission, GUI applications, and shell access
 
+### Running One JupyterHub Environment at a Time
+Data Science and TensorFlow (and the Insight Engine "Explore" environment) each open in a new browser tab, and only one of these JupyterHub environments runs at a time. Launching an environment stops any server you have running in a different one, so save your work first. If the environment you select is already running, a "Server Already Running" dialog appears; select "LAUNCH SERVER" to reopen it in a new tab.
+
 ## Integration with Science Central
 
 The Modeling Workbench is one of the main components accessible through the Science Central navigation, alongside:
 - All Modules (main dashboard)
 - Proposal Management
 - LIMS
-- Data Portal
+- Data
 - Insight Engine
 
 ## Support

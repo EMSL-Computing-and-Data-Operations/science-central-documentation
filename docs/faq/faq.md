@@ -81,7 +81,7 @@ If you still see issues or the issue isn't resolved, send us an email at [sc.sup
 
 **Q: How do I change my account email or link/unlink ORCID?**
 
-**A:** Update email in Profile → Edit → Change Email and confirm via verification link. Link ORCID via the profile ORCID button and complete OAuth. For conflicts (email already used), request an account merge.
+**A:** Update the Business email address field on your NEXUS My Profile page and click Submit All Changes. To link ORCID, answer “Do you authorize EMSL to post to your ORCID record?” in the ORCID iD Permissions section of My Profile; you’ll be redirected to ORCID to authorize the connection, then click Submit All Changes to save. For conflicts (email already used), request an account merge.
 
 If you still see issues or the issue isn't resolved, send us an email at [sc.support@pnnl.gov](mailto:sc.support@pnnl.gov) and include the items below:
 
@@ -197,7 +197,7 @@ If you still see issues or the issue isn't resolved, send us an email at [sc.sup
 
 **Q: My data cart download failed or is incomplete — how to resume?**
 
-**A:** Try to resume the transfer if your client supports it. If not, regenerate the cart and restart transfer. For large downloads, request a pre-packaged tarball or staging link from support.
+**A:** Check the download’s status in Past Downloads. Try to resume the transfer if your client supports it. If not, regenerate the cart and restart transfer. Downloads larger than 10 GB can’t be downloaded to your local machine and must be transferred with Globus. For large downloads, request a pre-packaged tarball or staging link from support.
 
 If you still see issues or the issue isn't resolved, send us an email at [sc.support@pnnl.gov](mailto:sc.support@pnnl.gov) and include the items below:
 
@@ -206,9 +206,9 @@ If you still see issues or the issue isn't resolved, send us an email at [sc.sup
 - Last successful file
 - Error logs
 
-**Q: "Create Cart" does nothing or hangs — what now?**
+**Q: "Download" from My Cart does nothing or hangs — what now?**
 
-**A:** Wait a few minutes (backend job); if it still doesn’t generate, open a support ticket with cart attempt timestamp and dataset/project id. We can check job queue and generate manually.
+**A:** Files are retrieved from EMSL’s archive (tape) and packaged in the background, which can take minutes to hours for large or archived data; track progress in Past Downloads. If it still doesn’t generate, open a support ticket with cart attempt timestamp and dataset/project id. We can check job queue and generate manually.
 
 If you still see issues or the issue isn't resolved, send us an email at [sc.support@pnnl.gov](mailto:sc.support@pnnl.gov) and include the items below:
 
@@ -228,7 +228,7 @@ If you still see issues or the issue isn't resolved, send us an email at [sc.sup
 
 **Q: I can click “Download” while logged out — is that intended?**
 
-**A:** Some previews may show the modal but require authentication to access data. If files actually download without auth, report immediately (possible ACL bug).
+**A:** The Download and Past Downloads options in the data portal are disabled until you log in. If files actually download without auth, report immediately (possible ACL bug).
 
 If you still see issues or the issue isn't resolved, send us an email at [sc.support@pnnl.gov](mailto:sc.support@pnnl.gov) and include the items below:
 
@@ -238,7 +238,7 @@ If you still see issues or the issue isn't resolved, send us an email at [sc.sup
 
 **Q: Issues removing or managing Globus identities from profile.**
 
-**A:** If the remove identity button does nothing, it’s likely a UI bug; support can remove identities server-side.
+**A:** Globus identities are managed in the data portal under Settings (User Settings), where each identity has a Remove button and you can paste a Globus UUID and click Add. If the Remove button does nothing, it’s likely a UI bug; support can remove identities server-side.
 
 If you still see issues or the issue isn't resolved, send us an email at [sc.support@pnnl.gov](mailto:sc.support@pnnl.gov) and include the items below:
 

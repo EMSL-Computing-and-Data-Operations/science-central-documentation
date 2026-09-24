@@ -24,18 +24,18 @@ If you do not have a Globus account associated with your Science Central account
 
 ![DP_SettingsIcon](../_static/images/create_globus_account/Step11_DP_SettingsIcon.jpg)
 
-2. The following screen pops up. Paste the Globus ID and click “Add”. After the add is successful click the “Close” button.
+2. The following “User Settings” screen pops up. Paste the Globus ID into the “Paste Globus UUID here” field and click “Add”. After the add is successful click the “Close” button.
 
 ![DP_Settings](../_static/images/create_globus_account/Step12_DP_Settings.jpg)
 
 ## Example download steps
 Once the files are chosen, click the "DOWNLOAD" button.
 
-1. From the Download Data screen, choose “Globus” and click the “Download” button.
+1. From the Download Data screen, choose “Globus” as the delivery method, select your Globus ID and click the “Download” button.
 
 ![DP_WithGlobus](../_static/images/create_globus_account/Step21_DP_WithGlobus.jpg)
 
-Once you see the “Created a Globus guest collection for your download” message, click on the “Go to guest collection” link.
+Your download is prepared in the background. In the “Download Information” window, click “Go to Past Downloads”. Once the download is ready, click “Visit Globus Collection” for it on the “My Downloads” page. If no collection has been created yet, click “Create Globus Collection” first.
 
 2. You will be prompted with a Globus login screen.
 

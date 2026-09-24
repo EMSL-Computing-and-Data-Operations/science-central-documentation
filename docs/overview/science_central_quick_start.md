@@ -5,7 +5,7 @@
 ### Platform Access
 1. **Navigate to**: https://sc.emsl.pnnl.gov/
 2. **Dashboard**: Access the All Modules view
-3. **Selection**: Choose the appropriate tool for your research
+3. **Selection**: Choose the appropriate tool for your research. The All Modules view has six cards: Proposal Management, LIMS, Data, Modeling Workbench, Insight Engine, and Circles.
 
 ### Component Selection Guide
 
@@ -32,7 +32,7 @@
 - Manage sample information and workflows
 - Access reviewer tables for sample status
 
-#### Choose **L7 Enterprise Science Platform** when you need to:
+#### Choose **L7 Enterprise Science Platform** (inside LIMS, PNNL staff only) when you need to:
 - Manage laboratory information systems
 - Track samples, projects, and workflows
 - Access comprehensive LIMS functionality
@@ -104,14 +104,14 @@
 ### For Sample Management and LIMS
 
 #### Getting Started with Sample Submission
-1. **Access**: Navigate to LIMS → Sample Submission
+1. **Access**: Select the LIMS card. Most users go straight to the Sample Submission portal; PNNL staff see a LIMS page with two cards and select Sample Submission
 2. **Templates**: Download metadata templates for sample preparation
 3. **Submit**: Create new shipment applications with sample metadata
 4. **Track**: Monitor shipment status and processing progress
 5. **Review**: Access reviewer tables for detailed sample information
 
 #### Getting Started with L7 Platform
-1. **Access**: Navigate to LIMS → L7 for comprehensive laboratory management
+1. **Access**: Navigate to LIMS → L7 for comprehensive laboratory management. L7 is not a separate module on the All Modules view; it appears only for PNNL staff, as the second card on the LIMS page, and opens in a new browser tab
 2. **Dashboard**: View key metrics and recent activity
 3. **Manage**: Access various laboratory functions:
    - **Entities**: Register and manage laboratory entities

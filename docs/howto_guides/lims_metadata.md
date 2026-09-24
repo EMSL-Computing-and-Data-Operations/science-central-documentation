@@ -21,7 +21,7 @@ To begin your submission, head to the [Science Central™](https://sc.emsl.pnnl.
 
 ![2.png](../_static/images/howto_lims_metadata/2.png)
 
-The metadata management system and the [Sample Metadata Submission Portal](https://sc-metadata.emsl.pnnl.gov/) are available via the “LIMS” tile. Login required for full functionality. Once logged in, the “Dashboard” will show all submitted metadata on approved projects that you are associated with. If no metadata submissions or shipment requests have been created, this dashboard will appear blank. To get started select “+ New Shipment Application.”
+The metadata management system and the [Sample Metadata Submission Portal](https://sc-metadata.emsl.pnnl.gov/) are available via the “LIMS” tile. Login required for full functionality. Once logged in, the “Dashboard” will show all submitted metadata on approved projects that you are associated with. Submissions are grouped by project, labeled with the project ID, PI last name, and project title; each project is collapsed by default, so select the arrow next to a project to expand its list of shipments. If no metadata submissions or shipment requests have been created, this dashboard will appear blank. To get started select “+ New Shipment Application.”
 
 ![3.png](../_static/images/howto_lims_metadata/3.png)
 
@@ -93,11 +93,11 @@ If your shipment requires UDSA permitting, then the Project Manager for your pro
 
 ### Updating your submission
 
-After a review from the MPOC, a submission may be returned for edits. In this case, you will receive an additional email. Head back to the [Sample Metadata Submission Portal](https://sc-metadata.emsl.pnnl.gov/) dashboard. Select the shipment name with the status showing “User Revisions Required” to get started with updates.
+After a review from the MPOC, a submission may be returned for edits. In this case, you will receive an additional email. Head back to the [Sample Metadata Submission Portal](https://sc-metadata.emsl.pnnl.gov/) dashboard. Expand the project and select the shipment name with the status showing “User Revision Required” to get started with updates.
 
 ![16.png](../_static/images/howto_lims_metadata/16.png)
 
-Requested updates will be provided via comments. To view any entered comment from the MPOC, go to the sample metadata section select “EDIT”. Navigate to the “Comments” tab to see the message from your MPOC for requested updates.
+Requested updates will be provided via comments. To view any entered comment from the MPOC, select the “Add/View Comments” button at the top of the shipment request, next to “Save Draft.” A badge on the button shows the number of unread comments. The comments panel opens with the newest comments shown, and you can reply to a comment directly in the panel.
 
 ![17.png](../_static/images/howto_lims_metadata/17.png)
 
