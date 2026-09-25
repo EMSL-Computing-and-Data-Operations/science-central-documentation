@@ -24,7 +24,7 @@ After the selections are made by user, search results appear as a scrollable lis
 
 Users can click on the "Select datasets" button to open up the dataset selector. From here, users can check the datasets they want, and each checked dataset is added to the cart automatically (enabling downloads of data across multiple projects).
 
-Users can also see more details such as the files, metadata, and DOI of an individual upload by clicking the "View files" button. Each dataset has its own URL that can be shared between users. Users can add files to cart and/or download from here as well.
+Users can also see more details such as the files and metadata of an individual upload by clicking the "View files" button. Each dataset has its own URL that can be shared between users. Users can add files to cart and/or download from here as well.
 
 ![doi_click](../_static/images/data_portal/doi_click.png)
 
@@ -108,7 +108,7 @@ Users can toggle the filter using the checkbox next to each analysis on the left
 
 ![monet_download](../_static/images/data_portal/monet_download.png)
 
-The download modal shows a summary of the download and the current filters, including the number of active filters, the number of files, and the total download size. Checking "Include Full Replicate Data (L1 data)" returns replicate-level values instead of averaged values, where they are available. Clicking download on the modal initiates a download of a zip file containing the requested data. The button shows "Processing" while the zip file is prepared in the background; download sizes vary, so this may take a while. If the download fails, the modal shows an error and the button changes to "Try Again". Contact dataportal.support@pnnl.gov if the error persists.
+The download modal shows a summary of the download and the current filters, including the number of active filters and the number of files. "Include site-level environmental metadata" is checked by default and adds Site_Level_Metadata.csv, with soil survey, climate, topography, land cover and NDVI context for each core section in the selection from six public providers (SSURGO, Daymet, gridMET, USGS 3DEP, NLCD, HLS Landsat). These values are modelled or remotely sensed for the area around each site; they are not measurements of the sample. A README documenting every column, its source, and its citation is included. Checking "Include Full Replicate Data (L1 data)" returns replicate-level values instead of averaged values, where they are available. Clicking download on the modal initiates a download of a zip file containing the requested data. The button shows "Processing" while the zip file is prepared in the background; download sizes vary, so this may take a while. If the download fails, the modal shows an error and the button changes to "Try Again". Contact dataportal.support@pnnl.gov if the error persists.
 
 #### MONet Resources
 
@@ -117,7 +117,7 @@ On the MONet tab, the "Resources" button in the top app bar opens "MONet Data Pr
 - **MONet Lab Protocols**: the protocols followed to standardize sampling (https://raw.githubusercontent.com/EMSL-MONet/MONet-Protocols-/refs/heads/main/MONet%20Lab%20Protocols.docx)
 - **Column Description Guide**: help understanding the columns in downloaded MONet data (https://raw.githubusercontent.com/EMSL-MONet/MONet-Protocols-/refs/heads/main/Column_Descriptions.xlsx)
 - **EMSL MONet repository**: more information about MONet protocols and files (https://github.com/EMSL-MONet/MONet-Protocols-/)
-- **MONet 1000 Soils Data Package**: 1000 Soils data, available temporarily as a package until it is added to the searchable sample sets (https://sc-data.emsl.pnnl.gov/packages?file=1000soils.zip)
+- **MONet 1000 Soils Data Package** (https://sc-data.emsl.pnnl.gov/packages?file=1000soils.zip)
 - **MONet Biogeochemistry Data Release Jan 2026** (https://sc-data.emsl.pnnl.gov/packages?file=MONet_biogeochemistry_XCT_January2026.zip)
 - **MONet Biogeochemistry Data Release Apr 2026** (https://sc-data.emsl.pnnl.gov/packages?file=MONet_biogeochemistry_XCT_April2026.zip)
 - **MONet Biogeochemistry Data Release Jul 2026** (https://sc-data.emsl.pnnl.gov/packages?file=MONet_biogeochemistry_XCT_ICR_July2026.zip)
