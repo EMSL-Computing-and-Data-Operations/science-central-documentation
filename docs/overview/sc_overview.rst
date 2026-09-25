@@ -40,21 +40,36 @@ Here is the overview of the key components and applications of Science Central�
 
 4. `Insight Engine <https://sc.emsl.pnnl.gov/>`_:
     Visualization component of Science Central™ allows researchers to create interactive and visually compelling representations of their research data. It offers a variety of visualization 
-    techniques, such as charts, graphs, and 3D visualizations,to facilitate data exploration and interpretation.
+    techniques, such as charts, graphs, and 3D visualizations, to facilitate data exploration and interpretation. The Insight Engine provides a centralized environment for data analysis and visualization, 
+    enabling researchers to analyze and visualize data to explore, interpret, and communicate research insights.
+
+    Insight Engine includes the following applications (each opens in a new browser tab):
+
+    - **Explore**: A Python-focused JupyterHub environment designed to accelerate your Python explorations and data analysis workflows.
+    - **MAP (Multi-omics Analysis Portal)**: A suite of analysis tools built to filter, analyze, and integrate multi-omics data with specialized bioinformatics capabilities.
 
 .. image:: ../_static/images/sc_overview/insight_engine_card.png
    :width: 1000
 
 5. `Modeling Workbench <https://sc.emsl.pnnl.gov/>`_:
     Modeling Workbench is a powerful component of Science Central™, that integrates artificial intelligence and machine learning capabilities into the platform. It allows researchers to apply advanced 
-    algorithms and techniques to their data for predictive modeling, pattern recognition, and data-driven insights.
+    algorithms and techniques to their data for predictive modeling, pattern recognition, and data-driven insights. The Modeling Workbench provides a centralized environment for data scientists to build, 
+    train, and deploy machine learning and simulation models.
+
+    Modeling Workbench includes the following applications (each opens in a new browser tab):
+
+    - **Data Science**: A JupyterHub environment fully equipped with a suite of libraries designed for powerful data processing and analysis, supporting Python, R, and Julia.
+    - **TensorFlow**: A deep learning focused JupyterHub environment designed to advance your deep learning journey.
+    - **Tahoma OnDemand**: An OpenOnDemand-based compute infrastructure platform for high-performance computing access.
 
 .. image:: ../_static/images/sc_overview/modeling_workbench_card.png
    :width: 1000
 
 6. Circles: 
-    Science Central™'s collaboration component fosters interdisciplinary collaboration and knowledge sharing among researchers. It provides communication channels, discussion forums, and 
-    document-sharing capabilities to facilitate seamless collaboration and feedback exchange.
+    Circles is Science Central™'s collaboration component that provides Microsoft Teams chat integration for interdisciplinary collaboration and knowledge sharing among researchers. 
+    When users click on the Circles card, they will be redirected to a new browser tab with Microsoft Teams if they have access. Users without access will see a tooltip indicating 
+    "No access" with instructions to request access by contacting sc-collab-support@pnnl.gov. This platform facilitates seamless communication, and discussion 
+    capabilities to enhance collaboration and feedback exchange among research teams.
 
 .. image:: ../_static/images/sc_overview/circles_card.png
    :width: 1000
@@ -63,6 +78,20 @@ Support and Help
 =================
 
 For general Science Central™ access issues, and questions related to web application reach out to sc.support@pnnl.gov.
+
+Platform Service Status
+========================
+
+Science Central™ communicates platform issues and service impacts through banner notifications displayed at the top of the interface. 
+
+**How Service Notifications Work:**
+
+- **Banner Alerts**: When technical difficulties or maintenance activities impact Science Central™ products or compute resources, a prominent banner notification will appear at the top of all pages.
+- **Status Information**: The banner provides details about which services are affected and the nature of the impact.
+- **Resolution Updates**: When issues are resolved and full service is restored, the banner notification is removed.
+- **Proactive Communication**: Planned maintenance and known issues are communicated in advance when possible.
+
+If you experience issues and do not see a banner notification, or if you need additional information about a service impact, please contact sc.support@pnnl.gov.
 
 Feedback
 ============

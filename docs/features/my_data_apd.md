@@ -11,7 +11,7 @@ Note: The daily backups are meant only for restoring files if they are accidenta
 ## How do I get data into an Active Project Directory
 
 There are multiple methods for adding files to an APD.
-1. Users may utilize the Data Portal to select datasets from EMSL projects and send them directly to their APD.
+1. Users may utilize the Data Portal to select datasets from EMSL projects and send them to their APD. After the download is prepared, create a Globus collection for it on the Past Downloads page, then use the "Transfer Data" column to choose the project as the destination.
 2. Users may utilize a Globus account to transfer files between an APD and another institution.
 3. Users may install Globus Connect Personal to transfer files between their personal computer and an APD Globus Connect Personal: [https://www.globus.org/globus-connect-personal](https://www.globus.org/globus-connect-personal).
 4. Users may connect via samba shares (see instructions below).

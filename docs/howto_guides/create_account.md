@@ -19,7 +19,7 @@ Once all the blank boxes are filled, user should click "Register" button which i
 ![register](../_static/images/create_account/register_modal.png)
 
 4. After the "Register" button is clicked, "New User Form" shows up, user should fill all the details in the form.
-User should select "Orcid Id permissions" to ensure the orcid id is linked to the user account, after clicking either "yes" or "no", user is taken to the ORCID sign in form where user can either login with existing credentials or create a new account by clicking "Register now". If the user is logging in with existing credentials after they click login they would be taken back to the "New User Form" and if user is registering a new account, in the last step after user clicks on either authorize access or deny they will be taken back to "New User Form" highlighting their inital selection.
+User should select "ORCID iD Permissions" to ensure the orcid id is linked to the user account, after clicking either "yes" or "no", user is taken to the ORCID sign in form where user can either login with existing credentials or create a new account by clicking "Register now". If the user is logging in with existing credentials after they click login they would be taken back to the "New User Form" and if user is registering a new account, in the last step after user clicks on either authorize access or deny they will be taken back to "New User Form" highlighting their inital selection.
 
 ![orcid](../_static/images/create_account/orcid.png)
 
